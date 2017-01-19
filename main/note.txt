@@ -1,0 +1,4 @@
+eax - liczba I argument
+ebx - 0
+ecx - 10
+edx - 0
