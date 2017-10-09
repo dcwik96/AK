@@ -1,5 +1,5 @@
-# Architekruta Komputera
+# Computers architecture
 ## Dawid Ćwik
-### Architekrura Komputera.Assembler. Informatyka II rok 3 semestr INF UG
+### Computers architecture. Assembler. Computer science II year 3 sem. INF UG
 
 ##[P. Szuca](http://ug.edu.pl/pracownik/2902/piotr_szuca)
